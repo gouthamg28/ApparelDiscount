@@ -1,0 +1,6 @@
+Wrangler=10
+Arrow=20
+Vero Moda=60
+UCB=None
+Adidas=5
+Provogue=20

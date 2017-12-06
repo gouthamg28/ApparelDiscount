@@ -1,0 +1,8 @@
+Men's wear=0
+Men's wear,Shirts=0
+Men's wear,Trousers=0
+Men's wear,Trousers,Casuals=30
+Men's wear,Trousers,Jeans=20
+Women's wear=50
+Women's wear,Dresses=0
+Women's wear,Footwear=0
